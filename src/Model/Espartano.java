@@ -10,14 +10,15 @@ public class Espartano extends Humano {
         this.ToleranciaExtra = tolerancia;
     }
 
+
     @Override
-    public void beber() {
-        System.out.println("Hacer beber ");
+    public Integer getBeber() {
+        return this.ibb.beber(this.ToleranciaExtra);
     }
 
     @Override
-    public void orinar() {
-        System.out.println("Hacer orinar");
+    public Boolean getOrinar() {
+        return this.irn.orinar();
     }
 
     @Override

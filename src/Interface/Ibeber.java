@@ -1,6 +1,6 @@
 package Interface;
 
 public interface Ibeber {
-    public Integer beber();
+    public Integer beber( Integer extra);
 }
 

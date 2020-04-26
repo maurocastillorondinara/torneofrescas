@@ -2,7 +2,7 @@ package Interface;
 
 public class BeberVikingo implements Ibeber{
     @Override
-    public Integer beber() {
-        return 5;
+    public Integer beber( Integer extra) {
+        return 5 - extra;
     }
 }

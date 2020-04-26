@@ -21,7 +21,7 @@ public abstract class Humano implements Comparable  {
 
     public abstract Integer getBeber();
 
-    public abstract Integer getOrinar();
+    public abstract Boolean getOrinar();
 
     public Iorinar getIorinar(){
         return this.irn;

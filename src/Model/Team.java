@@ -33,6 +33,13 @@ public class Team<T extends Comparable>{
         Collections.sort(this.teamList);
     }
 
+    public void printAll(){
+        for (T element:
+                teamList)
+        {
+            System.out.println(element.toString());
+        }
+    }
 
 
 }
