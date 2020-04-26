@@ -20,18 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="939127d3-0f05-48ea-8193-2c7e4b92cd77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/BeberVikingo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/BeberVikingo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Ibeber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Ibeber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Iorinar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Iorinar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/OrinarVikingo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/OrinarVikingo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Espartano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Espartano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Humano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Humano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Vikingo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Vikingo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contest/Torneo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contest/Torneo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,18 +93,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="534" y="76" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1587914993245">
-      <screen x="72" y="27" width="1294" height="741" />
+    <state x="488" y="48" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1587935774759">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587586772056" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587935774759" />
     <state x="534" y="76" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.1294.741@72.27.1294.741" timestamp="1587914993245" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1587496080576">
       <screen x="0" y="0" width="1366" height="728" />

@@ -1,6 +1,7 @@
 package Contest;
 
 import Model.Espartano;
+import Model.Team;
 import Model.Vikingo;
 
 
@@ -10,14 +11,29 @@ import java.util.List;
 
 public class Torneo {
     static final int MaxBebida = 100;
-     List<Vikingo> vikinLista ;
-     List<Espartano> espartanoLista;
+     Team<Vikingo> vikinLista ;
+     Team<Espartano> espartanoLista;
 
-     public Torneo(){
-         vikinLista = new ArrayList();
-         espartanoLista = new ArrayList();
+    public Team<Vikingo> getVikinLista() {
+        return vikinLista;
+    }
 
-     }
+    public void setVikinLista(Team<Vikingo> vikinLista) {
+        this.vikinLista = vikinLista;
+    }
+
+    public Team<Espartano> getEspartanoLista() {
+        return espartanoLista;
+    }
+
+    public void setEspartanoLista(Team<Espartano> espartanoLista) {
+        this.espartanoLista = espartanoLista;
+    }
+
+    public Torneo(){
+         vikinLista = new Team<>();
+         espartanoLista = new Team<>();
+    }
 
 
 
