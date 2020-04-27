@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class Team<T extends Comparable>{
+public class Team<T extends Comparable> extends Thread{
     private List<T> teamList;
 
 
@@ -28,7 +28,7 @@ public class Team<T extends Comparable>{
         return this.teamList.size();
     }
 
-    public void ageSort()
+    public void sort()
     {
         Collections.sort(this.teamList);
     }
@@ -41,5 +41,8 @@ public class Team<T extends Comparable>{
         }
     }
 
+    public void run(){
+
+    }
 
 }

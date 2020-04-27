@@ -22,6 +22,25 @@ public class Espartano extends Humano {
     }
 
     @Override
+    public int compareTo(Object o) {
+        int flag = 1;
+        if(o instanceof Espartano)
+        {
+            Espartano h = (Espartano)o;
+            if(h.getPeso() == this.getPeso())
+            {
+                flag = 0;
+            }else if(this.getPeso() > h.getPeso()){
+                flag = -1;
+            }else{
+                flag = -99;
+            }
+        }
+
+        return flag;
+    }
+
+    @Override
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;

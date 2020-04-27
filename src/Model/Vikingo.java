@@ -26,6 +26,25 @@ public class Vikingo extends Humano{
     }
 
     @Override
+    public int compareTo(Object o) {
+        int flag = -1;
+        if(o instanceof Humano)
+        {
+            Humano h = (Humano)o;
+            if(h.getEdad() == this.getEdad())
+            {
+                flag = 0;
+            }else if(this.getEdad() > h.getEdad()){
+                flag = 1;
+            }else{
+                flag = -99;
+            }
+        }
+
+        return flag;
+    }
+
+    @Override
     public int hashCode() {
         return Objects.hash(super.hashCode(), BebedorProfesional);
     }

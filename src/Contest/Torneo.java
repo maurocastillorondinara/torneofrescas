@@ -9,10 +9,15 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-public class Torneo {
+public class Torneo extends Thread {
     static final int MaxBebida = 100;
      Team<Vikingo> vikinLista ;
      Team<Espartano> espartanoLista;
+
+    public Torneo(){
+        vikinLista = new Team<>();
+        espartanoLista = new Team<>();
+    }
 
     public Team<Vikingo> getVikinLista() {
         return vikinLista;
@@ -30,9 +35,8 @@ public class Torneo {
         this.espartanoLista = espartanoLista;
     }
 
-    public Torneo(){
-         vikinLista = new Team<>();
-         espartanoLista = new Team<>();
+    public void run(){
+
     }
 
 
