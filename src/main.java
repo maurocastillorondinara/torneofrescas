@@ -34,6 +34,8 @@ public class main {
 
         worldCup.setVikinLista(ragnarok);
         worldCup.setEspartanoLista(trescientos);
+        ragnarok.printAll();
+        trescientos.printAll();
 
     }
 }

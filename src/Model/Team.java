@@ -41,8 +41,7 @@ public class Team<T extends Comparable> extends Thread{
         }
     }
 
-    public void run(){
 
-    }
+
 
 }

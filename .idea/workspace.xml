@@ -20,24 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="939127d3-0f05-48ea-8193-2c7e4b92cd77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/torneoFrescas/Contest/Torneo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/torneoFrescas/Contest/Torneo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/torneoFrescas/Interface/BeberVikingo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/torneoFrescas/Interface/BeberVikingo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/torneoFrescas/Interface/Ibeber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/torneoFrescas/Interface/Ibeber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/torneoFrescas/Interface/Iorinar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/torneoFrescas/Interface/Iorinar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/torneoFrescas/Interface/OrinarVikingo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/torneoFrescas/Interface/OrinarVikingo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/torneoFrescas/Model/Espartano.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/torneoFrescas/Model/Espartano.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/torneoFrescas/Model/Humano.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/torneoFrescas/Model/Humano.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/torneoFrescas/Model/Team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/torneoFrescas/Model/Team.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/torneoFrescas/Model/Vikingo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/torneoFrescas/Model/Vikingo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/torneoFrescas/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/torneoFrescas/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contest/Torneo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contest/Torneo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Espartano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Espartano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Humano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Humano.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Model/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Team.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Vikingo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Vikingo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,36 +118,36 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587496080576" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588019573158">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588021089077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588019573158" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588021089077" />
     <state width="1248" height="172" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1587931449529" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588019573157">
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588021089077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588019573157" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588021089077" />
     <state width="1248" height="172" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1587931449528" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588019573157">
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588021089077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588019573157" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588021089077" />
     <state width="1248" height="172" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1587931449528" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588019573158">
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588021089077">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588019573158" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588021089077" />
     <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1587931449528" />
     <state x="638" y="45" key="SettingsEditor" timestamp="1588020144458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587496085839" />
     <state x="638" y="45" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588020144458" />
-    <state x="533" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1588018526378">
+    <state x="533" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1588087810139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587581859336" />
-    <state x="533" y="269" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588018526378" />
+    <state x="533" y="269" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588087810139" />
     <state x="87" y="0" key="new project wizard" timestamp="1587496066107">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
