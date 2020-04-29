@@ -11,10 +11,14 @@ public class Vikingo extends Humano{
     }
 
     @Override
-    public Integer getBeber() { return this.ibb.beber(this.BebedorProfesional); }
+    public Integer getBeber() {
+        Integer beb = this.ibb.beber(this.BebedorProfesional);
+        setIngerida(beb);
+        return beb;
+    }
 
     @Override
-    public Boolean getOrinar() { return this.irn.orinar(); }
+    public String getOrinar() { return this.irn.orinar(); }
 
     @Override
     public boolean equals(Object o) {

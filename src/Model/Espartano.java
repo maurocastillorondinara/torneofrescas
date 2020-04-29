@@ -8,6 +8,7 @@ public class Espartano extends Humano {
     public Espartano(String nomb,Integer eda, Integer pes, Integer tolerancia){
         super(nomb,eda,pes);
         this.ToleranciaExtra = tolerancia;
+        setCapacidad(ToleranciaExtra);
     }
 
 
@@ -17,7 +18,7 @@ public class Espartano extends Humano {
     }
 
     @Override
-    public Boolean getOrinar() {
+    public String getOrinar() {
         return this.irn.orinar();
     }
 
@@ -36,8 +37,11 @@ public class Espartano extends Humano {
                 flag = -99;
             }
         }
-
         return flag;
+    }
+
+    public void setCapacidad(Integer extra){
+        this.Capacidad += extra;
     }
 
     @Override

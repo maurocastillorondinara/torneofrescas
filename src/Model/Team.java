@@ -1,5 +1,7 @@
 package Model;
 
+import Contest.Torneo;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -10,6 +12,7 @@ public class Team<T extends Comparable> extends Thread{
 
 
     public Team(){
+
         teamList = new ArrayList<T>();
     }
 

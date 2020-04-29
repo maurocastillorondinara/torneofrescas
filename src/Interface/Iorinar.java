@@ -1,5 +1,5 @@
 package Interface;
 
 public interface Iorinar {
-    public Boolean orinar();
+    public String orinar();
 }

@@ -10,6 +10,8 @@ public abstract class Humano implements Comparable  {
     Integer Edad;
     Integer Peso;
     Long dni;
+    Integer Capacidad = 100;
+    Integer Ingerida = 0;
     Ibeber ibb;
     Iorinar irn;
 
@@ -21,7 +23,7 @@ public abstract class Humano implements Comparable  {
 
     public abstract Integer getBeber();
 
-    public abstract Boolean getOrinar();
+    public abstract String getOrinar();
 
     public Iorinar getIorinar(){
         return this.irn;
@@ -63,7 +65,21 @@ public abstract class Humano implements Comparable  {
         Peso = peso;
     }
 
+    public Integer getCapacidad() {
+        return Capacidad;
+    }
 
+    public void setCapacidad(Integer capacidad) {
+        Capacidad = capacidad;
+    }
+
+    public Integer getIngerida() {
+        return Ingerida;
+    }
+
+    public void setIngerida(Integer ingerida) {
+        Ingerida += ingerida;
+    }
 
     @Override
     public boolean equals(Object o) {
