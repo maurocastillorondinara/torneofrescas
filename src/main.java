@@ -29,9 +29,9 @@ public class main {
 
         Team<Vikingo> ragnarok = new Team<>();
 
-        Vikingo thor = new Vikingo("Thor",25,80,4);
+        Vikingo thor = new Vikingo("Thor",25,80,12);
         Vikingo olaf = new Vikingo("Olaf",35,120,10);
-        Vikingo rudolf = new Vikingo("Rudolf",18,100,3);
+        Vikingo rudolf = new Vikingo("Rudolf",18,100,7);
         thor.setIbeber(new BeberVikingo());
         thor.setIorinar(new OrinarVikingo());
         olaf.setIbeber(new BeberVikingo());
